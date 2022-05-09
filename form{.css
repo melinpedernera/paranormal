@@ -1,0 +1,27 @@
+form{
+background-image:url("retro-wave-4k-download-pc-wallpaper-preview.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+border-radius: 40cm;
+align-items: center;
+
+width: 100%;
+  max-width: 600px; 
+  padding: 10px;
+  margin: 0 auto;
+ display:  flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color:rgba(236, 0, 0, 0.918);
+}
+
+body{
+    background-image:url("meliodas-assault.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	}
+	p{
+	    color: blue;
+	}	
+
